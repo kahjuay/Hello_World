@@ -1,1 +1,4 @@
 This is the first file
+
+I am adding new lines into file1 from Branch1
+Eventually I want the changes within this branch to be merged into master branch
